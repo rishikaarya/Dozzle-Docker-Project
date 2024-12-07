@@ -29,6 +29,10 @@ docker run --name dozzle -d --volume=/var/run/docker.sock:/var/run/docker.sock:r
 ## Video
 
 
+https://github.com/user-attachments/assets/1db7582a-19ed-49c4-803c-5b0eeb5c3357
+
+
+
 ## Conclusion
 This will deploy Dozzle as a Docker container and gain real-time insights into your Docker container logs. This setup ensures a lightweight, efficient, and easily maintainable solution for log monitoring.
 
